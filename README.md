@@ -4,14 +4,14 @@ The rapid increase in the development of robotic systems in a controlled and unc
 
 ### You can cite the repository as :
 ```
-@article{naosekpam2019machine, <br />
-  title={Machine learning in 3D space gesture recognition}, <br />
-  author={Naosekpam, Veronica and Sharma, Rupam Kumar},<br />
-  journal={Jurnal Kejuruteraan},<br />
-  volume={31},<br />
-  number={2},<br />
-  pages={243--248},<br />
-  year={2019}<br />
+@article{naosekpam2019machine, 
+  title={Machine learning in 3D space gesture recognition}, 
+  author={Naosekpam, Veronica and Sharma, Rupam Kumar},
+  journal={Jurnal Kejuruteraan},
+  volume={31},
+  number={2},
+  pages={243--248},
+  year={2019}
 }
 ```
 Or
